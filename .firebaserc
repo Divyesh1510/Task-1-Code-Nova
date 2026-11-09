@@ -1,6 +1,14 @@
 {
   "projects": {
-    "default": "Task-1-CodeNova_Internship_divyeshreddy"
+    "default": "codenova-internship-divyesh"
+  },
+  "targets": {
+    "codenova-internship-divyesh": {
+      "hosting": {
+        "app": [
+          "task-1-codenova-internship-divyeshreddy"
+        ]
+      }
+    }
   }
 }
-
